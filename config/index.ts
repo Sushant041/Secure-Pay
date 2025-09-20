@@ -22,5 +22,6 @@ export const wagmiAdapter = new WagmiAdapter({
   projectId,
 })
 
+export const TOKEN_SYMBOL = 'AVAX'
 // Export wagmi config
 export const config = wagmiAdapter.wagmiConfig
