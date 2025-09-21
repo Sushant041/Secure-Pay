@@ -15,7 +15,7 @@ With Secure-Pay, crypto payments aren't just faster and cheaper—they're user-f
 | Resource | Resource Link |
 |----------|---------------|
 | GitHub Repository | 🔗 [View on GitHub](https://github.com/Sushant041/secure-pay) |
-| Live Demo | 🔗 [Open Secure-Pay](https://secure-pay.preyanshu.me) |
+| Live Demo | 🔗 [Open Secure-Pay](https://secure-pay-iota.vercel.app/) |
 | Demo Video | 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=dTbT9lKF738) |
 | AvelancheScan – Smart Contract | 🔗 [Contract Address](https://testnet.snowtrace.io/address/0x12472b505756B39d7099B1AD65a774305267F397?tab=txs) |
 | Pitch Deck | 🔗 [View Presentation](https://docs.google.com/presentation/d/1niEm5j5eUhE0_fxOdb4njMoavFEFQMAAB8DRtqt0In8/edit?slide=id.p7#slide=id.p7) |
